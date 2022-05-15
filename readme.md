@@ -1,3 +1,4 @@
+# GUIA PARA ARCHIVOS MARKDOWN  
 # headings
 ## headings
 ### headings
@@ -77,6 +78,7 @@ suma(1,2)
 
 
 
+- [GUIA PARA ARCHIVOS MARKDOWN](#guia-para-archivos-markdown)
 - [headings](#headings)
   - [headings](#headings-1)
     - [headings](#headings-2)
@@ -87,4 +89,8 @@ suma(1,2)
 - [**bloques de código**](#bloques-de-código)
 - [**Blockquote**](#blockquote)
 - [**Links**](#links)
-- [Imágenes](#imágenes)"# markdown-guide-ipf" 
+- [Imágenes](#imágenes)
+
+- enlace directo a la 2da parte.
+
+[2da_Parte](https://github.com/fsappdev/markdown-guide-ipf/blob/main/readmeDos.md "enlace a 2da parte")
